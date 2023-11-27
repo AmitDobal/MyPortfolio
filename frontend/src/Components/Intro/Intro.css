@@ -107,7 +107,7 @@
 
 
 @media screen and (max-width: 480px) {
-  .Intro {
+  .intro {
     flex-direction: column;
     gap: 7rem;
     height: 64rem;
@@ -121,7 +121,7 @@
     display: none;
   }
   .floating-div:nth-of-type(1){
-    /* display: none; */
     top: -7rem !important;;
   }
 }
+

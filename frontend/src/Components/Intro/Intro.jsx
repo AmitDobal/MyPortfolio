@@ -60,7 +60,7 @@ const Intro = () => {
         <img src={MyPic} alt="" />
         <motion.img
           initial={{ left: "-36%" }}
-          whileInView={{ left: "-24%" }}
+          whileInView={{ left: "-20%" }}
           transition={transition}
           src={glassesimoji}
           alt=""
